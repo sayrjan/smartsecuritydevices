@@ -101,9 +101,18 @@
             color: #555;
             margin-top: 30px;
         }
+
+        .logo {
+            display: block;
+            margin: 0 auto;
+            width: 150px; /* Adjust size */
+        }
     </style>
 </head>
 <body>
+
+<!-- Logo Section -->
+<img src="logo.png" alt="Smart Security Devices Logo" class="logo">
 
 <div class="container">
     <h1>Smart Security Devices</h1>
